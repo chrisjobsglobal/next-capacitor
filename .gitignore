@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+.npm
+.eslintcache
+
+# Build outputs
+dist/
+build/
+bin/
+www/
+
+# Android
+android/app/build/
+android/.gradle/
+android/local.properties
+android/captures/
+android/app/google-services.json
+android/.externalNativeBuild
+android/.cxx
+android/*.iml
+android/app/*.iml
+android/.idea
+android/vendor/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.local

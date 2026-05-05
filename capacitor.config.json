@@ -1,0 +1,9 @@
+{
+  "appId": "com.jobsglobal.app",
+  "appName": "JobsGlobal",
+  "webDir": "www",
+  "server": {
+    "url": "https://jobsglobal.com",
+    "cleartext": true
+  }
+}
