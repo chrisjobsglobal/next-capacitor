@@ -1,9 +1,9 @@
 {
   "appId": "com.jobsglobal.app",
-  "appName": "JobsGlobal",
+  "appName": "JobsGlobal Kiosk - Philippines",
   "webDir": "www",
   "server": {
-    "url": "https://jobsglobal.com",
+    "url": "https://jobsglobal.com/page/d145fb76-3e2a-488a-98ff-fc6e8273900d/display",
     "cleartext": true
   }
 }
